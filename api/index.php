@@ -21,8 +21,8 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
     <!-- CSS -->
-    <link rel="stylesheet" href="style.css" />
-    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <title>WEB UAS</title>
   </head>
   <body>
     <div class="container">
